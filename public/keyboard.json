@@ -1,0 +1,65 @@
+[
+  {
+    "x": 1.62,
+    "y": 0.04,
+    "scale": 0.5,
+    "key": "Enter",
+    "sprite": "ENTERALTERNATIVE.png"
+  },
+  {
+    "x": 0,
+    "y": -0.7,
+    "scale": 0.28,
+    "key": "Space",
+    "sprite": "SPACE.png"
+  },
+  {
+    "x": 1.54,
+    "y": 0.42,
+    "scale": 0.28,
+    "key": "Backspace",
+    "sprite": "BACKSPACE.png"
+  },
+  {
+    "x": -1.555,
+    "y": -0.42,
+    "scale": 0.28,
+    "key": "LeftShift",
+    "sprite": "SHIFT.png"
+  },
+  {
+    "x": -1.555,
+    "y": -0.7,
+    "scale": 0.28,
+    "key": "LeftControl",
+    "sprite": "CTRL.png"
+  },
+  {
+    "x": 0.8,
+    "y": -0.42,
+    "scale": 0.28,
+    "key": "Comma",
+    "sprite": "EMPTY1.png"
+  },
+  {
+    "x": -1.65,
+    "y": 0.14,
+    "scale": 0.28,
+    "key": "Tab",
+    "sprite": "TABALTERNATIVE.png"
+  },
+  {
+    "x": 1.06,
+    "y": -0.42,
+    "scale": 0.28,
+    "key": "Period",
+    "sprite": "EMPTY1.png"
+  },
+  {
+    "x": 1.65,
+    "y": 0.93,
+    "scale": 0.1,
+    "key": "fullscreen",
+    "sprite": "WINDOWS.png"
+  }
+]
